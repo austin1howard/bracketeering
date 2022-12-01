@@ -303,3 +303,4 @@ dmypy.json
 /output/
 /notebooks/data/
 /generated/
+/scratch/
